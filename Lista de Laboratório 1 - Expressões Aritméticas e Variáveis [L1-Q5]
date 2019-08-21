@@ -1,0 +1,6 @@
+<script>
+var p = parseFloat(prompt("Digite:"))
+var a = parseFloat(prompt("Digite:"))
+var imc = p/Math.pow(a,2)
+alert(`IMC: ${imc}`)
+</script>
