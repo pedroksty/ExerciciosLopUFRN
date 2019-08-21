@@ -1,0 +1,6 @@
+<script>
+var h = parseInt(prompt("Digite as horas"))
+var d = parseInt(h/24)
+var r = h%24
+alert(h+" horas equivale a "+d+" dias e "+r+" horas")
+</script>
